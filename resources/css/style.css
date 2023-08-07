@@ -1,13 +1,11 @@
 body {
   background: #000;
   text-align: center;
-  font-family: Verdana, Geneva, Tahoma, sans-serif:
-  
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.header--main {
+.header-main {
   font-weight: normal;
   font-size: 50px;
   color: white;
 }
-
